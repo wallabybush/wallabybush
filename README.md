@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wallabybush
 - 👀 I’m interested in relational databases and their structure, ORM and data visualization.
 - 🌱 I’m currently learning github (ha, ha)
-- 💞️ I’m looking to collaborate on ptojects I'm still looking.
+- 💞️ I’m looking to collaborate on projects I'm still looking for.
 - 📫 How to reach me: tbn
 
 <!---
